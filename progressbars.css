@@ -1,0 +1,45 @@
+.mainBar{
+width: 100%;
+height: 100%;
+background-color: white;
+
+}
+.insideBar{
+width: 100%;
+height:24px;
+background-color: lightgray;
+border-radius: 25px;
+}
+.percentage{
+    width : 50%;
+    height: 24px;
+    border-radius: 25px;
+    box-shadow: 0 0 2px 
+}
+.percentageText{
+   float: right;
+   margin-right: 10px;
+   margin-top: 5px;
+   font-family: sans-serif;
+   font-style: normal;
+   font-weight: bold;
+}
+.color1{
+    background-color: greenyellow;
+}
+.color2{
+    background-color: red;
+}
+.color3{
+    background-color: whitesmoke;
+}
+.color4{
+    background-color: blue;
+}
+.color5{
+    background-color: yellow;
+}
+.finishBtn{
+    float: right;
+    margin-top: 20px;
+}
